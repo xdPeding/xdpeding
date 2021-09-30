@@ -15,7 +15,7 @@
 ### 📩 Connect with me:
 
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/peding.55/)
-[<img align="left" height="24" width="24" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg" />](https://discord.gg/hwgjPUeRBu)
+[<img align="left" height="24" width="24" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg" />](https://discord.gg/users/852593590181691402)
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />](https://mail.google.com/mail/u/0/#inbox)
 
 
