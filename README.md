@@ -4,10 +4,6 @@
 # ✨ Hi, I am Peding
 
 
-<div align="center">
-    <a href="https://discord.com/users/852593590181691402" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852593590181691402"></a>
-</div>
-
 ## ⚡ Contact
 
 <div align="center">
